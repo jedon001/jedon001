@@ -3,30 +3,29 @@
 
 > "Precision is the only metric that matters."
 
-### 🏛️ Institutions
-* **Informatics** | Vytautas Magnus University (VMU)
+> "In a kitchen, a dull knife is a hazard. In a system, dull logic is a failure."
 
-### ⚙️ Core Logic
-* **Location:** Kaunas, Lithuania
-* **Status:** Refining fundamentals. Obsessing over efficiency.
-* **Philosophy:** Code should be as sharp as a chef's knife. 
+### 01_IDENTITY
+- **Field:** Informatics
+- **Origin:** Vytautas Magnus University (VMU)
+- **Node:** Kaunas, Lithuania
+
+### 02_PROCESSES
+- **Optimization:** Refactoring the fundamentals of computer science.
+- **Methodology:** Quiet intensity. Practical application over theory without practice.
+
+### 03_THE_TOOLBOX
+| Utility | Status |
+| :--- | :--- |
+| **Logic** | [ ██████████ ] 100% |
+| **Persistence** | [ ██████████ ] 100% |
+| **Redundancy** | [ ░░░░░░░░░░ ] 0% |
+
+### 04_SYSTEM_LOG
+$$\forall P \in \text{Programs}, \text{Optimal}(P) \iff \text{Precise}(P)$$
 
 ---
 
-### 📊 System Status
-$$\forall x \in \text{Code} : \text{Logic}(x) \implies \text{Optimal}(x)$$
-
-<!--
-**jedon001/jedon001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[ E X E C U T E ]**
+- Working in silence. 
+- Results speak louder than "aura."
